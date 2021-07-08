@@ -36,10 +36,12 @@ chrome-profiler-events*.json
 /coverage
 /libpeerconnection.log
 npm-debug.log
+.firebaserc
 yarn-error.log
 testem.log
 /typings
-
+src/credentials/firebase-config.ts
+.firebase
 # System Files
 .DS_Store
 Thumbs.db
